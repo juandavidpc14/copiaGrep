@@ -1,0 +1,4 @@
+Puntos extras para un examen: realizar un mini clon de la funcion grep de los sistemas linux
+Tres puntos si logran realizarlo tal cual esta en la prueba dada.
+Cuatro puntos si logran no solo marcar palabras si no expresiones por ejemplo si se ingresa "lo" marcar todos los "lo" del texto, sean palabras por si solas
+Cinco puntos si logran incluir una opcion de cambio de color
